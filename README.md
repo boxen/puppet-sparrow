@@ -1,4 +1,7 @@
-# Puppet sparrow for Boxen
+# Sparrow Puppet Module for Boxen
 
-FIXME: update me bro
+## Usage
 
+```puppet
+include sparrow
+```
