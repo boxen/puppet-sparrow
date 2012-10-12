@@ -1,3 +1,8 @@
+# Installs Sparrow into /Applications
+#
+# Usage:
+#
+#     include sparrow
 class sparrow {
   package { 'Sparrow':
     provider => 'appdmg',
