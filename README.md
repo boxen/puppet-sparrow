@@ -5,3 +5,7 @@
 ```puppet
 include sparrow
 ```
+
+## Required Puppet Modules
+
+None.
